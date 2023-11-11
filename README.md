@@ -11,7 +11,7 @@ npm i
 npm i react-native-camera
 npm i react-native-qrcode-scanner
 npm i @ethersproject/shims
-npm start
+npx react-native start
 ```
 
 <br />
